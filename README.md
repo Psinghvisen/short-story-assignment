@@ -1,5 +1,39 @@
 # short-story-assignment
 
+
+**Abstract**
+
+This project evaluates responsible dataset creation for machine learning, focusing on fairness, privacy, and regulatory compliance. Inspired by the paper "On Responsible Machine Learning Datasets" (Nature Machine Intelligence), it analyzes 60 datasets, particularly in biometrics and healthcare, using a novel responsibility rubric. The framework quantifies dataset accountability to promote ethical AI systems.
+
+
+**Features**
+
+Dataset Curation
+Domain: Biometric and healthcare datasets (e.g., UTKFace, FB Fairness, DroneSURF).
+Curation Process:
+Fairness: Inclusivity, diversity, and label reliability.
+Privacy: Masking sensitive attributes and ensuring anonymization.
+Compliance: Adherence to GDPR, HIPAA, and institutional approval.
+Responsibility Score: Weighted combination of fairness, privacy, and compliance metrics.
+
+
+**Evaluation Metrics**
+
+Fairness: Demographic representation and labeling quality.
+Privacy: Risk mitigation for sensitive attributes and data masking.
+Regulatory Compliance: Institutional approval, consent, and data correction mechanisms.
+Holistic Responsibility: Weighted average of all dimensions, visualized using 3D scatter plots.
+
+**Key Results**
+
+Top Performers:
+Fairness: UTKFace.
+Privacy: DroneSURF.
+Compliance: FB Fairness.
+Challenges:
+Fairness-Privacy Trade-Off: Improved fairness often increases privacy risks.
+Only 11% of datasets meet regulatory standards.
+
 PPT link:
 https://docs.google.com/presentation/d/15ojkrIobXzzPpimdQImWP8hBK6HMZqLsKi63bQ5bFpc/edit?usp=sharing
 
