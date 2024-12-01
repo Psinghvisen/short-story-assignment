@@ -1,6 +1,7 @@
 # short-story-assignment
 
 PPT link:
+https://docs.google.com/presentation/d/15ojkrIobXzzPpimdQImWP8hBK6HMZqLsKi63bQ5bFpc/edit?usp=sharing
 
 
 Medium article link:   
