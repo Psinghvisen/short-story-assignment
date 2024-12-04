@@ -35,7 +35,7 @@ Fairness-Privacy Trade-Off: Improved fairness often increases privacy risks.
 Only 11% of datasets meet regulatory standards.
 
 PPT link:
-https://www.slideshare.net/slideshow/building-responsible-ai_-fairness-privacy-and-compliance-in-machine-learning-datasets-pptx/273820928
+https://www.slideshare.net/slideshow/building-responsible-ai_-fairness-privacy-and-compliance-in-machine-learning-datasets-pptx-610d/273824298
 
 
 Medium article link:   
