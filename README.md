@@ -44,7 +44,7 @@ https://medium.com/@pooja.singh01/the-future-of-ai-lies-in-responsible-datasets-
 
 Slide video explanation:
 
-https://github.com/Psinghvisen/short-story-assignment/blob/main/video1995810084.mp4
+https://youtu.be/r0eV_ppQqbg
 
 
 
